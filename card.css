@@ -1,0 +1,33 @@
+body {
+  margin: 20px;
+  font-family: Verdana;
+}
+
+.avatar {
+  width: 150px;
+}
+
+img {
+  width: 100%;
+}
+.ca {
+  text-align: center;
+  width: 400px;
+
+  margin: 8px auto;
+  padding: 20px;
+  display: flex;
+  color: #283930;
+  justify-content: space-around;
+  background-color: #def7de;
+  border-bottom: 7px solid rgb(206, 162, 123);
+}
+
+.italic {
+  font-style: italic;
+}
+
+.innertext {
+  margin-top: 1px;
+  padding: 1px;
+}
