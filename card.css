@@ -12,10 +12,10 @@ img {
 }
 .ca {
   text-align: center;
-  width: 400px;
+  max-width: 400px;
 
   margin: 8px auto;
-  padding: 20px;
+  padding: 20px auto;
   display: flex;
   color: #283930;
   justify-content: space-around;
