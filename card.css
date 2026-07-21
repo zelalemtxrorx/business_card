@@ -41,3 +41,20 @@ img {
   max-width: 100%;
   height: auto;
 }
+@media (max-width: 600px) {
+  .card {
+    width: 90%;
+    margin: 20px auto;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .avatar {
+    width: 120px;
+    margin-bottom: 15px;
+  }
+
+  .info {
+    text-align: center;
+  }
+}
